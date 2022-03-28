@@ -82,3 +82,10 @@ button {
   width: 100px;
   border: 3px solid #058ed9;
 }
+.jumbotron {
+  color: white;
+}
+.header {
+  color: #058ed9;
+  font-family: "Iceberg", cursive;
+}
