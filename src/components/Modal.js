@@ -15,7 +15,7 @@ const Modal = ({show, setShow, person}) => {
       
     axios.get(`https://project.trumedianetworks.com/api/nfl/player/${person}`, {
       headers: {
-          'tempToken': 'd818a26a-a42d-4fc5-8ab7-44020a0dad5e',
+          'tempToken': '8bb59da2-9ef7-4be0-b33c-3c78ffb2d892',
         }
       })
       .then((res) => {
